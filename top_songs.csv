@@ -1,0 +1,252 @@
+artist,title,genre,mood,year,duration
+Michael Jackson,Billie Jean,Pop,Happy,1982,294
+Michael Jackson,Thriller,Pop,Energetic,1982,357
+Michael Jackson,Smooth Criminal,Pop,Energetic,1987,257
+Michael Jackson,Earth Song,Pop,Sad,1995,405
+Ozzy Osbourne,Without You,Rock,Sad,2010,255
+Ozzy Osbourne,Crazy Train,Metal,Energetic,1980,296
+Ozzy Osbourne,Mama I'm Coming Home,Rock,Sad,1991,251
+Ozzy Osbourne,Mr. Crowley,Metal,Energetic,1980,296
+Ozzy Osbourne,Bark at the Moon,Metal,Energetic,1983,257
+Mariah Carey,Without You,Pop,Sad,1993,214
+Mariah Carey,Hero,Pop,Sad,1993,257
+Mariah Carey,Fantasy,Pop,Happy,1995,243
+Mariah Carey,Emotions,Pop,Happy,1991,248
+The Offspring,Pretty Fly (for a White Guy),Rock,Energetic,1998,188
+The Offspring,Self Esteem,Rock,Energetic,1994,257
+The Offspring,The Kids Aren't Alright,Rock,Energetic,1998,180
+The Offspring,Gone Away,Rock,Sad,1997,268
+The Offspring,Want You Bad,Rock,Happy,2000,203
+Katy Perry,I Kissed a Girl,Pop,Energetic,2008,180
+Katy Perry,Firework,Pop,Happy,2010,227
+Katy Perry,Roar,Pop,Energetic,2013,223
+Katy Perry,Teenage Dream,Pop,Happy,2010,217
+Katy Perry,Wide Awake,Pop,Sad,2012,221
+Queen,Bohemian Rhapsody,Rock,Energetic,1975,354
+Queen,Don't Stop Me Now,Rock,Happy,1978,209
+Queen,Another One Bites the Dust,Rock,Energetic,1980,215
+AC/DC,Back In Black,Rock,Energetic,1980,255
+AC/DC,Highway to Hell,Rock,Energetic,1979,208
+Led Zeppelin,Stairway to Heaven,Rock,Relaxed,1971,482
+Pink Floyd,Wish You Were Here,Rock,Sad,1975,334
+Nirvana,Smells Like Teen Spirit,Rock,Energetic,1991,301
+Nirvana,Heart-Shaped Box,Rock,Sad,1993,281
+Guns N' Roses,Sweet Child O' Mine,Rock,Happy,1987,356
+Guns N' Roses,November Rain,Rock,Sad,1991,537
+ABBA,Dancing Queen,Pop,Happy,1976,231
+ABBA,Mamma Mia,Pop,Happy,1975,212
+Madonna,Like a Virgin,Pop,Happy,1984,190
+Madonna,Frozen,Electronic,Relaxed,1998,372
+Britney Spears,Toxic,Pop,Energetic,2003,199
+Adele,Rolling in the Deep,Pop,Energetic,2010,228
+Adele,Hello,Pop,Sad,2015,295
+The Weeknd,Blinding Lights,Electronic,Energetic,2019,200
+The Weeknd,Save Your Tears,Pop,Relaxed,2020,215
+Metallica,Enter Sandman,Metal,Energetic,1991,331
+Metallica,Nothing Else Matters,Metal,Sad,1991,388
+Black Sabbath,Paranoid,Metal,Energetic,1970,168
+Black Sabbath,Iron Man,Metal,Energetic,1970,356
+Linkin Park,In the End,Metal,Energetic,2000,216
+Linkin Park,Numb,Metal,Sad,2003,187
+The Beatles,Yesterday,Pop,Sad,1965,125
+The Beatles,Hey Jude,Pop,Happy,1968,431
+Elvis Presley,Can't Help Falling in Love,Pop,Relaxed,1961,180
+Elvis Presley,Jailhouse Rock,Rock,Happy,1957,146
+Louis Armstrong,What a Wonderful World,Jazz,Happy,1967,141
+Nina Simone,Feeling Good,Jazz,Happy,1965,173
+Miles Davis,So What,Jazz,Relaxed,1959,562
+Miles Davis,Blue Train,Jazz,Relaxed,1958,641
+Frank Sinatra,My Way,Jazz,Relaxed,1969,275
+B.B. King,The Thrill Is Gone,Blues,Sad,1969,324
+Muddy Waters,Hoochie Coochie Man,Blues,Energetic,1954,169
+Howlin' Wolf,Spoonful,Blues,Relaxed,1960,165
+Daft Punk,One More Time,Electronic,Happy,2000,320
+Daft Punk,Get Lucky,Electronic,Happy,2013,248
+Avicii,Wake Me Up,Electronic,Happy,2013,247
+Amy Winehouse,Back to Black,Jazz,Sad,2006,241
+Billie Eilish,Bad Guy,Pop,Energetic,2019,194
+Harry Styles,As It Was,Pop,Happy,2022,167
+Lady Gaga,Poker Face,Pop,Energetic,2008,237
+Coldplay,The Scientist,Rock,Sad,2002,309
+Coldplay,Viva La Vida,Rock,Happy,2008,242
+Imagine Dragons,Believer,Rock,Energetic,2017,204
+Green Day,Wake Me Up When September Ends,Rock,Sad,2004,285
+Ray Charles,Georgia on My Mind,Blues,Relaxed,1960,217
+Etta James,At Last,Jazz,Relaxed,1960,180
+Scorpions,Still Loving You,Rock,Sad,1984,408
+Wham!,Last Christmas,Pop,Happy,1984,267
+Aerosmith,Dream On,Rock,Relaxed,1973,268
+The Doors,Riders on the Storm,Rock,Relaxed,1971,430
+Janis Joplin,Summertime,Blues,Sad,1968,238
+Buddy Guy,Feels Like Rain,Blues,Relaxed,1993,275
+John Lee Hooker,Boom Boom,Blues,Energetic,1962,149
+Hozier,Take Me to Church,Blues,Sad,2013,241
+Kygo,Firestone,Electronic,Relaxed,2014,273
+Alan Walker,Faded,Electronic,Sad,2015,212
+Zedd,Clarity,Electronic,Energetic,2012,271
+Fatboy Slim,Praise You,Electronic,Happy,1998,323
+David Bowie,Space Oddity,Rock,Relaxed,1969,315
+David Bowie,Heroes,Rock,Energetic,1977,370
+Tracy Chapman,Fast Car,Pop,Sad,1988,296
+Bill Withers,Ain't No Sunshine,Blues,Sad,1971,124
+Stevie Wonder,Superstition,Pop,Energetic,1972,266
+Marvin Gaye,What's Going On,Jazz,Relaxed,1971,233
+Prince,Purple Rain,Pop,Sad,1984,521
+Phil Collins,In the Air Tonight,Rock,Relaxed,1981,336
+Dire Straits,Sultans of Swing,Rock,Energetic,1978,348
+Tears for Fears,Mad World,Pop,Sad,1982,215
+Cyndi Lauper,Girls Just Want to Have Fun,Pop,Happy,1983,238
+Soft Cell,Tainted Love,Electronic,Energetic,1981,154
+Survivor,Eye of the Tiger,Rock,Energetic,1982,244
+Europe,The Final Countdown,Rock,Energetic,1986,310
+Van Halen,Jump,Rock,Happy,1984,241
+Iron Maiden,Fear of the Dark,Metal,Energetic,1992,438
+Alice in Chains,Nutshell,Rock,Sad,1994,259
+The Cranberries,Zombie,Rock,Sad,1994,306
+No Doubt,Don't Speak,Pop,Sad,1995,263
+Spice Girls,Wannabe,Pop,Happy,1996,173
+Coolio,Gangsta's Paradise,Pop,Sad,1995,240
+Jeff Buckley,Hallelujah,Rock,Sad,1994,413
+Ella Fitzgerald,Dream a Little Dream of Me,Jazz,Relaxed,1950,185
+Nat King Cole,L-O-V-E,Jazz,Happy,1964,153
+Duke Ellington,Take the A Train,Jazz,Energetic,1941,173
+Chet Baker,I Fall in Love Too Easily,Jazz,Sad,1953,198
+Billie Holiday,Strange Fruit,Jazz,Sad,1939,191
+Billie Holiday,All of Me,Jazz,Happy,1941,181
+Howlin' Wolf,Smokestack Lightnin',Blues,Relaxed,1956,187
+Robert Johnson,Cross Road Blues,Blues,Sad,1936,150
+T-Bone Walker,Stormy Monday,Blues,Sad,1947,181
+John Coltrane,My Favorite Things,Jazz,Relaxed,1961,821
+Herbie Hancock,Cantaloupe Island,Jazz,Relaxed,1964,332
+Sade,Smooth Operator,Jazz,Relaxed,1984,258
+Gorillaz,Feel Good Inc.,Electronic,Energetic,2005,221
+Daft Punk,Instant Crush,Electronic,Relaxed,2013,337
+Portishead,Glory Box,Electronic,Relaxed,1994,306
+Depeche Mode,Personal Jesus,Electronic,Energetic,1989,284
+Depeche Mode,Policy of Truth,Electronic,Relaxed,1990,295
+Massive Attack,Teardrop,Electronic,Relaxed,1998,329
+Faithless,Insomnia,Electronic,Energetic,1995,523
+Skrillex,Bangarang,Electronic,Energetic,2011,215
+Darude,Sandstorm,Electronic,Energetic,1999,225
+Kraftwerk,The Model,Electronic,Relaxed,1978,218
+Eurythmics,Sweet Dreams,Electronic,Energetic,1983,216
+New Order,Blue Monday,Electronic,Energetic,1983,449
+Aphex Twin,Windowlicker,Electronic,Relaxed,1999,367
+Pet Shop Boys,It's a Sin,Electronic,Energetic,1987,299
+Moby,Natural Blues,Electronic,Relaxed,1999,253
+The Chemical Brothers,Hey Boy Hey Girl,Electronic,Energetic,1999,288
+Disclosure,Latch,Electronic,Relaxed,2012,255
+Justice,D.A.N.C.E.,Electronic,Energetic,2007,242
+Calvin Harris,Feel So Close,Electronic,Happy,2011,206
+David Guetta,Titanium,Electronic,Energetic,2011,245
+Robert Miles,Children,Electronic,Relaxed,1995,425
+Marshmello,Happier,Electronic,Happy,2018,214
+Alan Walker,Alone,Electronic,Happy,2016,161
+Deadmau5,Strobe,Electronic,Relaxed,2009,637
+The Prodigy,Smack My Bitch Up,Electronic,Energetic,1997,342
+The Prodigy,Breathe,Electronic,Energetic,1996,239
+Underworld,Born Slippy,Electronic,Energetic,1995,580
+Fatboy Slim,Right Here Right Now,Electronic,Energetic,1998,235
+Bon Jovi,Always,Rock,Sad,1994,353
+Foo Fighters,Everlong,Rock,Relaxed,1997,250
+Red Hot Chili Peppers,Otherside,Rock,Sad,1999,255
+Radiohead,Creep,Rock,Sad,1992,238
+The Rolling Stones,Angie,Rock,Sad,1973,273
+The Rolling Stones,Gimme Shelter,Rock,Energetic,1969,271
+Aerosmith,I Don't Want to Miss a Thing,Rock,Sad,1998,299
+U2,With or Without You,Rock,Sad,1987,296
+Pearl Jam,Black,Rock,Sad,1991,344
+Soundgarden,Black Hole Sun,Rock,Relaxed,1994,318
+Alice in Chains,Man in the Box,Metal,Energetic,1990,286
+Deep Purple,Smoke on the Water,Rock,Energetic,1972,340
+The Eagles,Hotel California,Rock,Relaxed,1976,391
+Guns N' Roses,Paradise City,Rock,Energetic,1987,406
+Metallica,Master of Puppets,Metal,Energetic,1986,515
+Judas Priest,Painkiller,Metal,Energetic,1990,366
+Megadeth,Holy Wars,Metal,Energetic,1990,392
+Pantera,Walk,Metal,Energetic,1992,315
+Slayer,Angel of Death,Metal,Energetic,1986,291
+Slayer,Raining Blood,Metal,Energetic,1986,254
+Slipknot,Duality,Metal,Energetic,2004,252
+Korn,Blind,Metal,Energetic,1994,259
+System of a Down,Chop Suey!,Metal,Energetic,2001,210
+Disturbed,Down With The Sickness,Metal,Energetic,2000,278
+Avenged Sevenfold,Nightmare,Metal,Energetic,2010,376
+Iron Maiden,The Trooper,Metal,Energetic,1983,252
+Motörhead,Ace of Spades,Metal,Energetic,1980,169
+Dio,Holy Diver,Metal,Energetic,1983,281
+Rainbow,Stargazer,Metal,Energetic,1976,506
+Deep Purple,Highway Star,Rock,Energetic,1972,365
+Led Zeppelin,Kashmir,Rock,Energetic,1975,508
+Pink Floyd,Comfortably Numb,Rock,Relaxed,1979,382
+The Who,Baba O'Riley,Rock,Energetic,1971,308
+The Kinks,You Really Got Me,Rock,Energetic,1964,134
+Cream,Sunshine of Your Love,Rock,Energetic,1967,250
+Jimi Hendrix,Purple Haze,Rock,Energetic,1967,170
+The Doors,Light My Fire,Rock,Energetic,1967,426
+Jefferson Airplane,White Rabbit,Rock,Relaxed,1967,151
+Janis Joplin,Piece of My Heart,Rock,Energetic,1968,255
+Steppenwolf,Born to Be Wild,Rock,Energetic,1968,210
+ZZ Top,La Grange,Rock,Energetic,1973,231
+Lynyrd Skynyrd,Free Bird,Rock,Relaxed,1973,548
+Ramones,Blitzkrieg Bop,Rock,Energetic,1976,132
+The Clash,London Calling,Rock,Energetic,1979,200
+Sex Pistols,Anarchy in the UK,Rock,Energetic,1976,212
+The Stooges,I Wanna Be Your Dog,Rock,Energetic,1969,189
+The Velvet Underground,Heroin,Rock,Sad,1967,432
+Lou Reed,Walk on the Wild Side,Rock,Relaxed,1972,252
+Iggy Pop,Lust for Life,Rock,Happy,1977,313
+David Bowie,Life on Mars?,Rock,Sad,1971,234
+Roxy Music,Love Is the Drug,Rock,Energetic,1975,251
+T. Rex,Get It On,Rock,Happy,1971,265
+Blondie,Heart of Glass,Pop,Happy,1978,252
+The Cars,Just What I Needed,Rock,Happy,1978,224
+Talking Heads,Once in a Lifetime,Electronic,Energetic,1980,259
+The Police,Message in a Bottle,Rock,Happy,1979,291
+The Cure,Just Like Heaven,Rock,Happy,1987,212
+The Smiths,How Soon Is Now?,Rock,Sad,1984,416
+Joy Division,Transmission,Rock,Energetic,1979,215
+Bauhaus,Bela Lugosi's Dead,Rock,Sad,1979,576
+Siouxsie and the Banshees,Spellbound,Rock,Energetic,1981,197
+Echo & the Bunnymen,The Killing Moon,Rock,Relaxed,1984,347
+The Psychedelic Furs,Love My Way,Pop,Happy,1982,213
+Violent Femmes,Blister in the Sun,Rock,Happy,1983,145
+Pixies,Where Is My Mind?,Rock,Relaxed,1988,233
+Sonic Youth,Teen Age Riot,Rock,Energetic,1988,418
+The Replacements,Alex Chilton,Rock,Happy,1987,191
+Hüsker Dü,Don't Want to Know If You Are Lonely,Rock,Energetic,1986,211
+Dinosaur Jr.,Feel the Pain,Rock,Relaxed,1994,258
+My Bloody Valentine,Only Shallow,Rock,Energetic,1991,257
+The Jesus and Mary Chain,Just Like Honey,Rock,Relaxed,1985,183
+Cocteau Twins,Cherry-coloured Funk,Electronic,Relaxed,1990,192
+Slowdive,Alison,Rock,Sad,1993,231
+Ride,Vapour Trail,Rock,Relaxed,1990,257
+Pavement,Gold Soundz,Rock,Happy,1994,159
+Guided by Voices,Game of Pricks,Rock,Energetic,1995,93
+Yo La Tengo,Autumn Sweater,Rock,Relaxed,1997,318
+Built to Spill,Carry the Zero,Rock,Sad,1999,344
+Modest Mouse,Float On,Rock,Happy,2004,208
+The Strokes,Last Nite,Rock,Energetic,2001,193
+The White Stripes,Blue Orchid,Rock,Energetic,2005,157
+The Libertines,Can't Stand Me Now,Rock,Energetic,2004,203
+Franz Ferdinand,Take Me Out,Rock,Energetic,2004,237
+Interpol,Obstacle 1,Rock,Sad,2002,251
+The Killers,Mr. Brightside,Pop,Energetic,2004,222
+Kings of Leon,Sex on Fire,Rock,Energetic,2008,203
+Muse,Uprising,Rock,Energetic,2009,304
+Sigur Rós,Hoppípolla,Rock,Happy,2005,268
+Arcade Fire,Wake Up,Rock,Energetic,2004,335
+LCD Soundsystem,All My Friends,Electronic,Energetic,2007,462
+MGMT,Time to Pretend,Pop,Happy,2007,261
+Phoenix,1901,Pop,Happy,2009,193
+Vampire Weekend,A-Punk,Pop,Happy,2008,137
+Bon Iver,Holocene,Rock,Sad,2011,336
+Fleet Foxes,White Winter Hymnal,Rock,Happy,2008,147
+Tame Impala,The Less I Know the Better,Electronic,Relaxed,2015,218
+Lana Del Rey,Video Games,Pop,Sad,2011,284
+Lorde,Royals,Pop,Relaxed,2013,190
+Billie Eilish,everything i wanted,Pop,Sad,2019,245
+Olivia Rodrigo,drivers license,Pop,Sad,2021,242
+The Offspring,Keep 'Em Separated,Rock,Energetic,1994,178
+Ozzy Osbourne,Shot in the Dark,Rock,Energetic,1986,256
+Michael Jackson,Rock with You,Pop,Happy,1979,220
